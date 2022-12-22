@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Repose</string>
+    <string name="home">Home</string>
+    <string name="prayer_times">Prayer Times</string>
+    <string name="settings">Settings</string>
+</resources>
